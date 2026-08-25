@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Last commits](https://img.shields.io/github/last-commit/tylerthetech/tylerthetech/master)
+![Last commits](https://img.shields.io/github/last-commit/tylerthetech/tylerthetech/master?style=for-the-badge)
+![Created at](https://img.shields.io/github/created-at/tylerthetech/tylerthetech?style=for-the-badge)
 
 I am tylerclaude, aka Tyler Claude.
 
