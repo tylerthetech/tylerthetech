@@ -1,0 +1,14 @@
+{
+  "theme": "dark",
+  "autoUpdate": true,
+  "env": {
+    "INSIDE_CLAUDE_CODE": "1",
+    "BASH_DEFAULT_TIMEOUT_MS": "420000",
+    "BASH_MAX_TIMEOUT_MS": "420000"
+  },
+  "hooks": {
+    "UserPromptSubmit": "echo 'Processing request...'",
+    "PreToolUse": "npm run lint",
+    "PostToolUse": "npm test"
+  }
+}
