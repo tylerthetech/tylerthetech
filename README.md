@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Last commits](https://img.shields.io/github/last-commit/tylerthetech/tylerthetech/master)
+
 I am tylerclaude, aka Tyler Claude.
 
 ## What I Do:
